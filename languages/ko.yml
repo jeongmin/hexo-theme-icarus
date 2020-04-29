@@ -18,7 +18,7 @@ widget:
     recents: '최근 글'
     links: '링크'
     tag_cloud: '태그 클라우드'
-    catalogue: '카탈로그'
+    catalogue: '목차'
 article:
     more: '자세히 보기'
     comments: '댓글'
@@ -35,3 +35,7 @@ insight:
     categories: '카테고리'
     tags: '태그'
     untitled: '(제목없음)'
+plugin:
+    backtotop: '처음으로'
+    visit: '%s명 읽음'
+    visitor: '총 %s명 방문'
